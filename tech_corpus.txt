@@ -1,0 +1,59 @@
+[DOC 1]
+
+OpenAI is an artificial intelligence research and deployment company founded in 2015 by Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, John Schulman, and Wojciech Zaremba. The organization was initially established as a non-profit with the goal of ensuring that artificial general intelligence would benefit all of humanity. In 2019, OpenAI transitioned to a capped-profit structure called OpenAI LP to attract investment while still maintaining its mission-driven focus.
+
+Microsoft became one of OpenAI’s most important partners and investors. Starting in 2019, Microsoft invested billions of dollars into OpenAI and formed a long-term strategic partnership. As part of the agreement, Microsoft Azure became OpenAI’s exclusive cloud provider. This partnership enabled the integration of OpenAI’s models into Microsoft products such as Azure AI services, Microsoft 365 Copilot, GitHub Copilot, and Bing Chat.
+
+OpenAI developed several major AI systems, including GPT-3, GPT-4, and ChatGPT. ChatGPT quickly became one of the fastest-growing consumer applications in history, reaching millions of users within months. OpenAI also created DALL-E for image generation and Whisper for speech recognition.
+
+The partnership between OpenAI and Microsoft intensified competition with Google and Amazon in the cloud and AI markets. Google responded by accelerating the development of its own large language models, including Bard and Gemini. Meanwhile, Amazon invested heavily in AI infrastructure and partnered with Anthropic.
+
+Today, OpenAI is considered one of the most influential organizations in the generative AI revolution, working closely with Microsoft to deploy AI technologies at global scale.
+
+[DOC 2]
+
+Google was founded in 1998 by Larry Page and Sergey Brin while they were PhD students at Stanford University. The company initially focused on search technology and quickly became the world’s dominant search engine. Over time, Google expanded into a wide range of products and services including advertising, mobile operating systems, cloud computing, artificial intelligence, and video platforms.
+
+Sundar Pichai became CEO of Google in 2015 and later CEO of Alphabet, Google’s parent company. Under his leadership, Google invested heavily in AI research and cloud computing. Google Cloud emerged as one of the top cloud providers, competing directly with Microsoft Azure and Amazon Web Services.
+
+Google acquired YouTube in 2006, transforming it into the world’s largest video-sharing platform. The company also acquired Android, which became the most widely used mobile operating system globally. Android competes directly with Apple’s iOS ecosystem.
+
+In the field of AI, Google developed technologies such as TensorFlow, DeepMind’s AlphaGo, and large language models including Bard and Gemini. Google’s rapid progress in AI has intensified its rivalry with OpenAI and Microsoft.
+
+Google’s business model relies heavily on advertising revenue generated from Google Search, YouTube, and the broader advertising ecosystem. Despite growing competition, Google remains one of the most influential technology companies in the world.
+
+[DOC 3]
+
+Amazon was founded in 1994 by Jeff Bezos as an online bookstore. Over the years, Amazon expanded into a global e-commerce and technology giant offering cloud computing, streaming, logistics, and artificial intelligence services. Amazon’s mission has consistently focused on customer obsession and long-term innovation.
+
+One of Amazon’s most successful ventures is Amazon Web Services (AWS), launched in 2006. AWS pioneered the cloud computing market and remains the largest cloud provider globally. AWS competes directly with Microsoft Azure and Google Cloud. Many startups and enterprises rely on AWS for computing, storage, and AI infrastructure.
+
+Amazon also expanded into entertainment through Amazon Prime Video and the acquisition of Twitch, a live streaming platform popular among gamers. In the grocery industry, Amazon acquired Whole Foods, marking a major expansion into physical retail.
+
+Amazon has invested heavily in artificial intelligence and voice assistants, launching Alexa and Echo smart devices. The company also invests in robotics and logistics automation to improve warehouse efficiency.
+
+Amazon’s expansion into cloud computing and AI has placed it in direct competition with Microsoft, Google, and OpenAI partnerships in the enterprise AI market.
+
+[DOC 4]
+
+Apple was founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne. The company became famous for designing consumer electronics known for their integration of hardware and software. Apple’s most iconic products include the Macintosh, iPod, iPhone, iPad, Apple Watch, and MacBook.
+
+Tim Cook became CEO of Apple in 2011 following the passing of Steve Jobs. Under Cook’s leadership, Apple expanded its services business, including Apple Music, iCloud, Apple TV+, and the App Store. The App Store created a massive ecosystem for developers and generated billions in revenue annually.
+
+Apple’s iPhone revolutionized the smartphone industry and competes directly with Android devices developed by Google and manufacturers such as Samsung. Apple maintains tight control over its ecosystem through its iOS operating system and proprietary hardware.
+
+Apple invests heavily in privacy, augmented reality, and custom silicon chips such as the M-series processors. These chips compete with products from Intel, AMD, and NVIDIA.
+
+Apple remains one of the most valuable companies in the world and continues to compete with Google, Microsoft, and Amazon across multiple technology sectors.
+
+[DOC 5]
+
+NVIDIA was founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem. The company originally focused on graphics processing units (GPUs) for gaming but later became a central player in artificial intelligence and high-performance computing.
+
+NVIDIA’s GPUs became the standard hardware for training deep learning models. Major technology companies including Microsoft, Google, Amazon, and OpenAI rely on NVIDIA GPUs to power their AI infrastructure. The rise of generative AI dramatically increased demand for NVIDIA hardware.
+
+NVIDIA developed CUDA, a parallel computing platform that enabled researchers to use GPUs for scientific computing and AI development. This innovation accelerated breakthroughs in deep learning and machine learning.
+
+The company also expanded into data center solutions, autonomous driving platforms, and AI supercomputing. NVIDIA collaborates with cloud providers to offer GPU-powered AI services through Azure, Google Cloud, and AWS.
+
+As AI adoption continues to grow, NVIDIA has become one of the most important companies in the global AI supply chain.

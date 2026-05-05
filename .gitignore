@@ -1,0 +1,8 @@
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+
+# Exercise file
+excersice.md

@@ -1,0 +1,15 @@
+networkx
+matplotlib
+openai
+pandas
+langchain
+langchain-openai
+python-dotenv
+chromadb
+noderag
+langchain-google-genai
+langchain-core
+langchain-community
+pydantic
+ollama
+langchain-ollama
